@@ -1,0 +1,128 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leena-k.com" resolutions="1x,2x" timestamp="1459113524884">
+  <folder name="css">
+    <file name="site_global.css" crc="4268421058"/>
+    <file name="master_a-master.css" crc="4042643388" ref="eric-lanlard:twitter-moment:contact:about:justgiving:index:ebola-one-year-on:tech-irl:amex"/>
+    <file name="eric-lanlard.css" crc="422925115" ref="eric-lanlard"/>
+    <file name="twitter-moment.css" crc="411885667" ref="twitter-moment"/>
+    <file name="contact.css" crc="320896750" ref="contact"/>
+    <file name="about.css" crc="3889526800" ref="about"/>
+    <file name="justgiving.css" crc="172109261" ref="justgiving"/>
+    <file name="index.css" crc="4036073511" ref="index"/>
+    <file name="ebola-one-year-on.css" crc="242909322" ref="ebola-one-year-on"/>
+    <file name="tech-irl.css" crc="4064638374" ref="tech-irl"/>
+    <file name="amex.css" crc="4021259349" ref="amex"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>eric-lanlard:phone>twitter-moment:phone>justgiving:phone>tech-irl:phone>ebola-one-year-on:phone>amex:phone>about:phone>contact:index:about:contact:eric-lanlard:amex:ebola-one-year-on:justgiving:tech-irl:twitter-moment"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>eric-lanlard:phone>twitter-moment:phone>justgiving:phone>tech-irl:phone>ebola-one-year-on:phone>amex:phone>about:phone>contact:index:about:contact:eric-lanlard:amex:ebola-one-year-on:justgiving:tech-irl:twitter-moment"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>about:index:about"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:phone>eric-lanlard:phone>twitter-moment:phone>justgiving:phone>tech-irl:phone>ebola-one-year-on:phone>amex:phone>about:phone>contact:index:about:contact:eric-lanlard:amex:ebola-one-year-on:justgiving:tech-irl:twitter-moment"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>about:index:about"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>eric-lanlard:phone>twitter-moment:phone>justgiving:phone>tech-irl:phone>ebola-one-year-on:phone>amex:phone>contact:index:about:contact:eric-lanlard:amex:ebola-one-year-on:justgiving:tech-irl:twitter-moment"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>eric-lanlard:phone>twitter-moment:phone>justgiving:phone>tech-irl:phone>ebola-one-year-on:phone>amex:phone>about:phone>contact:index:about:contact:eric-lanlard:amex:ebola-one-year-on:justgiving:tech-irl:twitter-moment"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>contact:contact"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>contact:contact"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>contact:contact"/>
+    <file name="form_process.php" crc="401030677" ref="phone>contact:contact"/>
+    <file name="form-u1137.php" crc="3783382385" ref="phone>contact"/>
+    <file name="museredirect.js" crc="3899419633" ref="index:about:contact:eric-lanlard:amex:ebola-one-year-on:justgiving:tech-irl:twitter-moment"/>
+    <file name="form-u305.php" crc="112671379" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4067784725" ref="phone>index"/>
+    <file name="screen shot 2016-03-20 at 002119-u1155-fr.jpg" crc="3903119032" ref="phone>index"/>
+    <file name="screen shot 2016-03-20 at 002119-u1155-fr_2x.jpg" crc="4137062906" ref="phone>index"/>
+    <file name="flourclap.gif" crc="4267948121" ref="phone>index:index"/>
+    <file name="flourclap_2x.gif" crc="4267948121" ref="phone>index"/>
+    <file name="screen shot 2016-03-20 at 005627-u1156-fr.jpg" crc="4203770349" ref="phone>index"/>
+    <file name="screen shot 2016-03-20 at 005627-u1156-fr_2x.jpg" crc="3978986953" ref="phone>index"/>
+    <file name="jgrun2.gif" crc="4103231343" ref="phone>index:index"/>
+    <file name="jgrun2_2x.gif" crc="4103231343" ref="phone>index"/>
+    <file name="screen shot 2016-03-20 at 010648-u1160-fr.jpg" crc="4280912233" ref="phone>index"/>
+    <file name="screen shot 2016-03-20 at 010648-u1160-fr_2x.jpg" crc="317019878" ref="phone>index"/>
+    <file name="techconfessions2.gif" crc="3901607320" ref="phone>index:index"/>
+    <file name="techconfessions2_2x.gif" crc="3901607320" ref="phone>index"/>
+    <file name="9n5a2590-u1159-fr.jpg" crc="4248101889" ref="phone>index"/>
+    <file name="9n5a2590-u1159-fr_2x.jpg" crc="230049050" ref="phone>index"/>
+    <file name="glittergif1.gif" crc="4221966180" ref="phone>index:index"/>
+    <file name="glittergif1_2x.gif" crc="4221966180" ref="phone>index:index"/>
+    <file name="screen shot 2016-03-20 at 011412-u1163-fr.jpg" crc="4095076361" ref="phone>index"/>
+    <file name="screen shot 2016-03-20 at 011412-u1163-fr_2x.jpg" crc="4044687415" ref="phone>index"/>
+    <file name="giphy.gif" crc="348093360" ref="phone>index:index"/>
+    <file name="giphy_2x.gif" crc="348093360" ref="phone>index"/>
+    <file name="screen shot 2016-03-20 at 011718-u1164-fr.jpg" crc="4138308623" ref="phone>index"/>
+    <file name="screen shot 2016-03-20 at 011718-u1164-fr_2x.jpg" crc="3800153443" ref="phone>index"/>
+    <file name="amex2.gif" crc="4123716971" ref="phone>index:index"/>
+    <file name="amex2_2x.gif" crc="4123716971" ref="phone>index"/>
+    <file name="wwwgifcreatorme_aaudhm.gif" crc="366625554" ref="phone>about:about"/>
+    <file name="wwwgifcreatorme_aaudhm_2x.gif" crc="366625554" ref="phone>about:about"/>
+    <file name="linkedin-2-xxl33x33.png" crc="165050840" seo="true" ref="phone>about"/>
+    <file name="linkedin-2-xxl33x33_2x.png" crc="3810517108" seo="true" ref="phone>about"/>
+    <file name="twitter-2-xxl33x33.png" crc="310802645" seo="true" ref="phone>about"/>
+    <file name="twitter-2-xxl33x33_2x.png" crc="4143738144" seo="true" ref="phone>about"/>
+    <file name="u1153-17.png" crc="189654986" ref="phone>contact"/>
+    <file name="u1153-17-r.png" crc="4199352623" ref="phone>contact"/>
+    <file name="u1153-17-m.png" crc="506921290" ref="phone>contact"/>
+    <file name="u1153-17-fs.png" crc="3851188675" ref="phone>contact"/>
+    <file name="u1153-17_2x.png" crc="145640711" ref="phone>contact"/>
+    <file name="u1153-17-r_2x.png" crc="3819985997" ref="phone>contact"/>
+    <file name="u1153-17-m_2x.png" crc="430524196" ref="phone>contact"/>
+    <file name="u1153-17-fs_2x.png" crc="4155577367" ref="phone>contact"/>
+    <file name="screen shot 2016-03-20 at 002119.jpg" crc="162625441" ref="index"/>
+    <file name="screen shot 2016-03-20 at 002119_2x.jpg" crc="413138891" ref="index"/>
+    <file name="screen shot 2016-03-20 at 005627.jpg" crc="3814692462" ref="index"/>
+    <file name="screen shot 2016-03-20 at 005627_2x.jpg" crc="483728336" ref="index"/>
+    <file name="9n5a2590.jpg" crc="509084789" ref="index"/>
+    <file name="9n5a2590_2x.jpg" crc="3958428513" ref="index"/>
+    <file name="screen shot 2016-03-20 at 010648.jpg" crc="4051315219" ref="index"/>
+    <file name="screen shot 2016-03-20 at 010648_2x.jpg" crc="3854542316" ref="index"/>
+    <file name="screen shot 2016-03-20 at 011412.jpg" crc="2759467" ref="index"/>
+    <file name="screen shot 2016-03-20 at 011412_2x.jpg" crc="237635290" ref="index"/>
+    <file name="screen shot 2016-03-20 at 011718.jpg" crc="110321534" ref="index"/>
+    <file name="screen shot 2016-03-20 at 011718_2x.jpg" crc="177179018" ref="index"/>
+    <file name="linkedin-2-xxl.png" crc="95832765" seo="true" ref="about"/>
+    <file name="linkedin-2-xxl_2x.png" crc="3810517108" seo="true" ref="about"/>
+    <file name="twitter-2-xxl.png" crc="231977107" seo="true" ref="about"/>
+    <file name="twitter-2-xxl_2x.png" crc="60869744" seo="true" ref="about"/>
+    <file name="u311-17.png" crc="189654986" ref="contact"/>
+    <file name="u311-17-r.png" crc="4199352623" ref="contact"/>
+    <file name="u311-17-m.png" crc="506921290" ref="contact"/>
+    <file name="u311-17-fs.png" crc="3851188675" ref="contact"/>
+    <file name="u311-17_2x.png" crc="145640711" ref="contact"/>
+    <file name="u311-17-r_2x.png" crc="3819985997" ref="contact"/>
+    <file name="u311-17-m_2x.png" crc="430524196" ref="contact"/>
+    <file name="u311-17-fs_2x.png" crc="4155577367" ref="contact"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3860223671" ref="phone>about:phone>eric-lanlard:phone>tech-irl:phone>ebola-one-year-on:phone>amex:phone>contact:phone>twitter-moment:phone>index:phone>justgiving"/>
+      <file name="about.css" crc="4091204921" ref="phone>about"/>
+      <file name="eric-lanlard.css" crc="4092284135" ref="phone>eric-lanlard"/>
+      <file name="tech-irl.css" crc="4032295615" ref="phone>tech-irl"/>
+      <file name="ebola-one-year-on.css" crc="3861292384" ref="phone>ebola-one-year-on"/>
+      <file name="amex.css" crc="3799832696" ref="phone>amex"/>
+      <file name="contact.css" crc="49126886" ref="phone>contact"/>
+      <file name="twitter-moment.css" crc="4114584210" ref="phone>twitter-moment"/>
+      <file name="index.css" crc="4171465483" ref="phone>index"/>
+      <file name="justgiving.css" crc="197003138" ref="phone>justgiving"/>
+    </folder>
+    <file name="index.html" crc="450446264" seo="true" mt="1459113517134" redirect="true"/>
+    <file name="eric-lanlard.html" crc="303198842" seo="true" mt="1459108807920" redirect="true"/>
+    <file name="twitter-moment.html" crc="4234001694" seo="true" mt="1459108807920" redirect="true"/>
+    <file name="justgiving.html" crc="3902145579" seo="true" mt="1459108807920" redirect="true"/>
+    <file name="tech-irl.html" crc="326902030" seo="true" mt="1459108807920" redirect="true"/>
+    <file name="ebola-one-year-on.html" crc="123097764" seo="true" mt="1459108807920" redirect="true"/>
+    <file name="amex.html" crc="3930053946" seo="true" mt="1459108807920" redirect="true"/>
+    <file name="about.html" crc="212689174" seo="true" mt="1459109518547" redirect="true"/>
+    <file name="contact.html" crc="3864446490" seo="true" mt="1459108807920" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3834421159" seo="true" mt="1459113517136" redirect="true"/>
+  <file name="about.html" crc="44198407" seo="true" mt="1459109424705" redirect="true"/>
+  <file name="contact.html" crc="80800105" seo="true" mt="1459106824792" redirect="true"/>
+  <file name="eric-lanlard.html" crc="4283423826" seo="true" mt="1459106824153" redirect="true"/>
+  <file name="amex.html" crc="304587307" seo="true" mt="1459106824538" redirect="true"/>
+  <file name="ebola-one-year-on.html" crc="4227566834" seo="true" mt="1459106824459" redirect="true"/>
+  <file name="justgiving.html" crc="390379053" seo="true" mt="1459108264669" redirect="true"/>
+  <file name="tech-irl.html" crc="274135987" seo="true" mt="1459106824373" redirect="true"/>
+  <file name="twitter-moment.html" crc="172809553" seo="true" mt="1459106824207" redirect="true"/>
+</manifest>
